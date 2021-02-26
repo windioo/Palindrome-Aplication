@@ -1,0 +1,27 @@
+.container {
+  text-align: center;
+}
+.box {
+  margin-top: 150px;
+  border: black solid 2px;
+  width: 400px;
+  height: 450px;
+  display: inline-block;
+  background-color: rgb(234, 225, 238);
+}
+
+button {
+  width: 300px;
+}
+p {
+  font-size: larger;
+  padding-top: 60px;
+  height: 150px;
+  width: 350px;
+  display: inline-block;
+  border: black solid 2px;
+  background-color: wheat;
+}
+body {
+  background-image: url(../img/Kata.jpg);
+}
